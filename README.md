@@ -43,3 +43,8 @@ Contact
 =======
 
 The Astronomer CLI is maintained with love by the Astronomer team. To report a bug or suggest a change, reach out to our support.
+
+
+![Photo_One](media/one.png)
+![Photo_Two](media/two.png)
+![Photo_Three](media/three.png)
